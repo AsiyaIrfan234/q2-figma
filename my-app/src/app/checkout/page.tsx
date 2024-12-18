@@ -17,7 +17,7 @@ const CheckoutPage = () => {
         />
         <div className="absolute inset-0 flex flex-col items-center justify-center text-center">
           <Image
-            src={"/images/card.logo.png"}
+            src={"/images/card-logo.png"}
             alt="pic2"
             width={77}
             height={77}

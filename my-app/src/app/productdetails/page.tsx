@@ -8,7 +8,6 @@ import { MdFacebook } from "react-icons/md";
 import { RxLinkedinLogo } from "react-icons/rx";
 import { AiFillTwitterCircle } from "react-icons/ai";
 import { IoIosHeartEmpty } from "react-icons/io";
-import { IoIosArrowDown } from "react-icons/io";
 import Link from "next/link";
 import { IoIosCloseCircle } from "react-icons/io";
 import { RxLockClosed } from "react-icons/rx";

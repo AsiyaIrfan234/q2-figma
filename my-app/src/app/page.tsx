@@ -9,8 +9,6 @@ import Link from 'next/link'
 
 const Home = () => {
 
-
-
   const products = [
     {
       id: 1,

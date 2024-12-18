@@ -6,7 +6,6 @@ import { IoFilter } from "react-icons/io5";
 import { BiGridSmall } from "react-icons/bi";
 import { BsViewList } from "react-icons/bs";
 import AboveFooter from "@/components/AboveFooter";
-import Link from "next/link";
 
 
 const page = () => {
